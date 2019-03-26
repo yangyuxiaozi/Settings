@@ -11,7 +11,7 @@
                         <key>kind</key>
                         <string>software-package</string>
                         <key>url</key>
-                        <string>ipa包路径，可以放在http服务器</string>
+                        <string>https://static.cdn.longmaosoft.com/totoro-release-v5.1.7-209.apk</string>
                     </dict>
                     <dict>
                         <key>kind</key>
@@ -41,7 +41,7 @@
                     <key>subtitle</key>
                     <string>App</string>
                     <key>title</key>
-                    <string>名称</string>
+                    <string>龙猫众包平台</string>
                 </dict>
             </dict>
         </array>
